@@ -8,8 +8,14 @@ async def getTournamentDeckLists(tournamentObject):
   invalidDecklists = [
       r'None', 
       r'^\s*$']
-
+  invalidTournamentNameCharacters = [
+     '"'
+  ]
   tournament = tournamentObject
+
+  def replaceIllegalChar(value):
+    return value.replace('"', '')
+  tournament["tournamentName"] = replaceIllegalChar(tournament["tournamentName"])
   pprint(f'tournament name: {tournament["tournamentName"]}')
 
   decks = []

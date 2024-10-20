@@ -10,7 +10,7 @@ async def requestTopDeckGGAPI():
     }
 #Modify Last to change number of tournaments
     body = {
-    "last": 10,
+    "last": 3,
     "rounds": False,
     "deckSnapshot": True,
     "game": "Magic: The Gathering",

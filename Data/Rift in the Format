@@ -1,5 +1,6 @@
-Card Name,Count
 R,i,f,t, ,i,n, ,t,h,e, ,F,o,r,m,a,t
+D,e,c,k, ,C,o,u,n,t,:, ,4,8
+Card Name,Count
 Decklist errors 1
 Sol Ring,44
 Gemstone Caverns,43
@@ -63,11 +64,11 @@ Finale of Devastation,18
 Arid Mesa,18
 Esper Sentinel,18
 Tropical Island,17
-Worldly Tutor,17
 Silence,17
 Lion's Eye Diamond,16
 Tundra,16
 Bloom Tender,16
+Worldly Tutor,16
 Swamp,16
 Simian Spirit Guide,16
 Pyroblast,16
@@ -281,7 +282,6 @@ Avacyn's Pilgrim,4
 Swift Reconfiguration,4
 Waterlogged Grove,4
 Homeward Path,4
-Manglehorn,4
 Miscast,4
 "Tyvar, Jubilant Brawler",3
 Mount Doom,3
@@ -348,6 +348,7 @@ Flesh Duplicate,3
 "Thrasios, Triton Hero",3
 Collector Ouphe,3
 Aven Mindcensor,3
+Manglehorn,3
 Resculpt,3
 Scroll Rack,3
 Dryad Arbor,3
@@ -469,10 +470,10 @@ Deafening Silence,2
 Lazotep Quarry,2
 Perplexing Chimera,2
 Snow-Covered Forest,2
-Carrion Feeder,2
-White Plume Adventurer,2
-Expedition Map,2
 Legolas's Quick Reflexes,2
+Carrion Feeder,2
+Expedition Map,2
+White Plume Adventurer,2
 "Azusa, Lost but Seeking",2
 Autumn's Veil,2
 Chain of Smog,2
@@ -703,39 +704,41 @@ Utopia Sprawl,1
 Goblin Bombardment,1
 Ghostfire Slice,1
 Natural Order,1
-Incubation Druid,1
-Hushwing Gryff,1
-Strangleroot Geist,1
-Young Wolf,1
-Nature's Chosen,1
-Wall of Roots,1
-Centaur Garden,1
-Icatian Moneychanger,1
-Scryb Ranger,1
-Circle of Dreams Druid,1
-Thousand-Year Elixir,1
+Knight of the Reliquary,1
+Leyline of Abundance,1
 Abzan Ascendancy,1
-Gavony Township,1
 "Nissa, Resurgent Animist",1
-Weathered Wayfarer,1
 Werefox Bodyguard,1
+Colonel Autumn,1
+Aven Interrupter,1
+"Bristly Bill, Spine Sower",1
+Enduring Vitality,1
+Weathered Wayfarer,1
+Recruiter of the Guard,1
+Centaur Garden,1
+Strangleroot Geist,1
+Skullwinder,1
+Incubation Druid,1
+Thousand-Year Elixir,1
+Knight of Autumn,1
+"Rishkar, Peema Renegade",1
+Hushwing Gryff,1
+Young Wolf,1
+Wall of Roots,1
+Scryb Ranger,1
+Luminous Broodmoth,1
+Nature's Chosen,1
+Icatian Moneychanger,1
+"Breena, the Demagogue",1
+Gavony Township,1
+"Grist, the Hunger Tide",1
+"Yavimaya, Cradle of Growth",1
 Bartolomé del Presidio,1
 Doorkeeper Thrull,1
 Insidious Roots,1
 Well Rested,1
-"Bristly Bill, Spine Sower",1
-"Breena, the Demagogue",1
-Aven Interrupter,1
+Circle of Dreams Druid,1
 Emperor of Bones,1
-Recruiter of the Guard,1
-"Yavimaya, Cradle of Growth",1
-Skullwinder,1
-"Grist, the Hunger Tide",1
-Luminous Broodmoth,1
-"Rishkar, Peema Renegade",1
-Enduring Vitality,1
-Knight of the Reliquary,1
-Colonel Autumn,1
 Wild Mongrel,1
 Elvish Reclaimer,1
 Tranquil Thicket,1
@@ -1039,12 +1042,12 @@ Rogue's Passage,1
 Choked Estuary,1
 Connive // Concoct,1
 Discovery // Dispersal,1
+Thought Vessel,1
 Yahenni's Expertise,1
 Massacre,1
 Steal Enchantment,1
 Clearwater Pathway // Murkwater Pathway,1
 Dress Down,1
-Thought Vessel,1
 Cryptolith Rite,1
 Lurrus of the Dream-Den,1
 "Goro-Goro, Disciple of Ryusei",1

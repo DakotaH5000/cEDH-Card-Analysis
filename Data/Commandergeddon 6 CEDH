@@ -1,5 +1,6 @@
-Card Name,Count
 C,o,m,m,a,n,d,e,r,g,e,d,d,o,n, ,6, ,C,E,D,H
+D,e,c,k, ,C,o,u,n,t,:, ,4,7
+Card Name,Count
 Decklist errors 1
 Sol Ring,45
 Command Tower,42
@@ -49,11 +50,11 @@ Thassa's Oracle,23
 Mystical Tutor,23
 Red Elemental Blast,23
 Deflecting Swat,23
-Diabolic Intent,22
 Cyclonic Rift,22
 Fellwar Stone,22
 Gamble,22
 Underground Sea,21
+Diabolic Intent,21
 Opposition Agent,20
 Exotic Orchard,20
 Wishclaw Talisman,20
@@ -105,6 +106,7 @@ Gilded Drake,11
 Tropical Island,11
 Gitaxian Probe,11
 Mana Drain,11
+Mockingbird,11
 Valley Floodcaller,11
 Springleaf Drum,11
 Pollywog Prodigy,11
@@ -114,7 +116,6 @@ Bayou,10
 Crop Rotation,10
 Dauthi Voidwalker,10
 Breeding Pool,10
-Mockingbird,10
 Phyrexian Metamorph,10
 Defense Grid,10
 Talisman of Indulgence,10
@@ -172,7 +173,6 @@ Forbidden Orchard,7
 Training Center,7
 Hallowed Fountain,7
 Dualcaster Mage,7
-Abrupt Decay,6
 Endurance,6
 "Yavimaya, Cradle of Growth",6
 Eternal Witness,6
@@ -191,6 +191,7 @@ Bolas's Citadel,6
 Ledger Shredder,6
 "Delney, Streetwise Lookout",6
 Survival of the Fittest,5
+Abrupt Decay,5
 Temple Garden,5
 Elves of Deep Shadow,5
 Devoted Druid,5
@@ -211,8 +212,6 @@ Vexing Bauble,5
 Displacer Kitten,5
 Intuition,5
 Plains,5
-Desperate Ritual,5
-Pyretic Ritual,5
 Shivan Reef,5
 Command Beacon,4
 Witherbloom Apprentice,4
@@ -258,7 +257,9 @@ Spire of Industry,4
 Pongify,4
 Crystal Vein,4
 Lightning Greaves,4
+Desperate Ritual,4
 Sensei's Divining Top,4
+Pyretic Ritual,4
 Molten Duplication,4
 Twinflame,4
 "Kinnan, Bonder Prodigy",4
@@ -302,7 +303,6 @@ Flesh Duplicate,3
 Temur Sabertooth,3
 Miscast,3
 Spell Pierce,3
-Ophidian Eye,3
 "Shatterskull Smashing // Shatterskull, the Hammer Pass",3
 "Sokenzan, Crucible of Defiance",3
 Valakut Awakening // Valakut Stoneforge,3
@@ -358,6 +358,7 @@ Glen Elendra Archmage,2
 Reshape,2
 Perplexing Chimera,2
 Lurking Predators,2
+Sylvan Caryatid,2
 Treasure Vault,2
 "Kogla, the Titan Ape",2
 Colossal Skyturtle,2
@@ -392,7 +393,7 @@ Mana Crypt,2
 Dockside Extortionist,2
 Deadeye Navigator,2
 Chthonian Nightmare,2
-Tandem Lookout,2
+Ophidian Eye,2
 Basilisk Collar,2
 Dispel,2
 Loyal Apprentice,2
@@ -449,7 +450,6 @@ Three Visits,2
 Nature's Lore,2
 Yavimaya Coast,2
 Clever Impersonator,2
-Dig Through Time,2
 Grapeshot,2
 Opt,2
 Krark's Thumb,2
@@ -522,7 +522,6 @@ Mindcrank,1
 Turn the Earth,1
 Undergrowth Stadium,1
 Thorn Mammoth,1
-Sylvan Caryatid,1
 Moonsnare Prototype,1
 Botanical Sanctum,1
 Terastodon,1
@@ -574,6 +573,7 @@ Training Grounds,1
 Gut Shot,1
 Back to Basics,1
 Firebrand Archer,1
+Tandem Lookout,1
 Goblin Rabblemaster,1
 Stifle,1
 Forked Bolt,1
@@ -751,6 +751,7 @@ Dreamtide Whale,1
 Overlord of the Hauntwoods,1
 Bribery,1
 Shark Typhoon,1
+Dig Through Time,1
 Impulse,1
 Mind's Desire,1
 Merchant Scroll,1
@@ -763,12 +764,9 @@ Stormsplitter,1
 Relic of Legends,1
 Curse of Opulence,1
 Jeweled Amulet,1
-Pentad Prism,1
-Reckless Barbarian,1
-Damping Matrix,1
 "Yusri, Fortune's Flame",1
 "Magda, the Hoardmaster",1
-Harbinger of the Seas,1
+Reckless Barbarian,1
 Stern Scolding,1
 Arcane Denial,1
 Stasis,1
@@ -976,8 +974,8 @@ Three Tree City,1
 Monster Manual // Zoological Study,1
 Enduring Innocence,1
 Hushwood Verge,1
+Burning Inquiry,1
 Lavabelly Sliver,1
-Dark Deal,1
 Notion Thief,1
 Alchemist's Greeting,1
 Bloodmad Vampire,1
